@@ -1,0 +1,4 @@
+  su su - sudo function
+su – change to root user  and change the environment  configuration(also execute the .bash_profile & .bashrc)
+su  change to the root user
+sudo  make the current user  get the root permission temporary  
